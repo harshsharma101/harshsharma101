@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh
-- 👀 I’m interested in coding, web development, and learing editing softwares
+- 👀 I’m interested in coding, web development, UI/UX and learing editing softwares
 - 🌱 I’m currently Looking to connect with more people
 - 💞️ I’m trying to deep dive into the world of development
 - 📫 Contact me on https://www.linkedin.com/in/harsh-sharma-bb51291b6/
